@@ -17,13 +17,5 @@ variable "instances" {
 
 variable "allow_all" {
     type = string
-    default = "sg-0fea5e49e962e81c9"
-}
-
-variable "zone_id" {
-    default = "Z09912121MS725XSKH1TG"
-}
-
-variable "domain_name" {
-    default = "daws81s.online"
+    default = "sg-06eb9e733d93ed02c"
 }
